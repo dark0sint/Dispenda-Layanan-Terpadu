@@ -40,4 +40,8 @@ import os
 - **Offline Capability:** Karena menggunakan SQLite dan server lokal, aplikasi bisa dijalankan di komputer tanpa internet. Pastikan Bootstrap di-load dari CDN, tapi jika offline mutlak, unduh file Bootstrap dan simpan di folder **static/**.
 - **Pengujian:** Setelah menjalankan **app.py**, buat user pertama melalui database secara manual (e.g., gunakan SQLite browser untuk insert ke tabel users).
 
-Aplikasi ini siap digunakan! Jika Anda perlu modifikasi atau penambahan fitur, beri tahu saya. 😊
+Aplikasi ini siap digunakan! Jika Anda perlu modifikasi atau penambahan fitur, beri tahu saya. email : endrielhanan@gmail.com, satriaadhipradana2701@gmail.com
+
+<img width="513" height="455" alt="00000" src="https://github.com/user-attachments/assets/1a2a1fcf-ba2b-4512-8665-0352a744a477" />
+
+<img width="569" height="341" alt="0000" src="https://github.com/user-attachments/assets/28b507f5-82d0-4fce-bc78-056d0011c99e" />
