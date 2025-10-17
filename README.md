@@ -3,7 +3,7 @@ Aplikasi DISPENDA LAYANAN TERPADU ini akan memiliki fitur dasar:
 - **Dashboard** untuk melihat ringkasan pendapatan daerah.
 - **Form untuk mengelola wajib pajak** (tambah, edit, hapus).
 - **Form untuk mencatat pembayaran pajak** dan menghasilkan laporan sederhana.
-- **Koordinasi sederhana** melalui halaman perencanaan (e.g., input target pendapatan).
+- **Koordinasi sederhana** melalui halaman perencanaan (input target pendapatan).
 
 ### Persiapan
 1. **Instalasi Dependensi:**
@@ -42,6 +42,7 @@ import os
 
 Aplikasi ini siap digunakan! Jika Anda perlu modifikasi atau penambahan fitur, beri tahu saya. email : endrielhanan@gmail.com, satriaadhipradana2701@gmail.com
 
-<img width="513" height="455" alt="00000" src="https://github.com/user-attachments/assets/1a2a1fcf-ba2b-4512-8665-0352a744a477" />
 
-<img width="569" height="341" alt="0000" src="https://github.com/user-attachments/assets/28b507f5-82d0-4fce-bc78-056d0011c99e" />
+
+<img width="513" height="455" alt="00000" src="https://github.com/user-attachments/assets/e28c3675-69dd-41cc-93ac-d5fb63330bc4" />
+<img width="569" height="341" alt="0000" src="https://github.com/user-attachments/assets/79cb1329-ac1b-4844-bea9-57799ca77dbf" />
